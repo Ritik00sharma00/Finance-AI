@@ -1,0 +1,18 @@
+# Env & secrets
+.env
+.venv
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Editors
+.idea/
+.vscode/
+
+# Local sample invoices
+1neinv.pdf
+2inv.pdf
